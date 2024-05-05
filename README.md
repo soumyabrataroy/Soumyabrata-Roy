@@ -35,7 +35,6 @@
   <a href="https://www.databricks.com/" target="_blank"> <img src="https://github.com/soumyabrataroy/Soumyabrata-Roy/assets/46237589/6bd41963-90dd-4d34-a549-548399deb36a" alt="databricks" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> <img src="https://github.com/soumyabrataroy/Soumyabrata-Roy/assets/46237589/d07c0c6d-ee4a-4613-8f9b-26e241363c39" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
@@ -46,6 +45,6 @@
 
 <h3 align="center">Stats and Reach:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonip&show_icons=true&locale=en&layout=compact&langs_count=8&custom_title=Saloni%27s%20Most%20Used%20Languages&hide=prs,contribs&count_private=true" alt="salonip" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyabrataroy&show_icons=true&locale=en&layout=compact&langs_count=8&custom_title=Soumyabratas%27s%20Most%20Used%20Languages&hide=prs,contribs&count_private=true" alt="salonip" /></p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=salonip&show_icons=true&count_private=true&custom_title=Saloni%27s%20GitHub%20Stats&hide=prs,contribs&include_all_commits=true" alt="salonip" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=soumyabrataroy&show_icons=true&count_private=true&custom_title=Soumyabrata%27s%20GitHub%20Stats&hide=prs,contribs&include_all_commits=true" alt="salonip" /></p>
