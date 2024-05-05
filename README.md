@@ -1,5 +1,5 @@
 #  👋
-<p align="center"><img src="https://raw.githubusercontent.com/salonip/salonip/main/saloni-gif.gif"></p>
+<h1 align="center">Hi, I'm Soumyabrata</h1>
 <h3 align="center">A passionate Machine Learning Developer from India 🇮🇳</h3>
 
 
