@@ -5,9 +5,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:soumyabrataroy@live.com?subject=Just%20saw%20your%20work&body=Hi%20Soumya%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sarveshh" height="30" width="40" /></a>
+  <a href="mailto:soumyabrataroy@live.com?subject=Just%20saw%20your%20work&body=Hi%20Soumya%2C%20I%20just%20saw%20your%20work%20and%20I%20would%20like%20to%20work%20with%20you." target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/soumyabratar" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarveshp273" height="30" width="40" /></a>
-<a href="https://medium.com/@soumyabrataroy" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarveshh" height="30" width="40" /></a>
+<a href="https://medium.com/@soumyabrataroy" target="_blank"><img  src="https://github.com/soumyabrataroy/Soumyabrata-Roy/assets/46237589/f9d5d931-1a2a-453a-99ae-9676d89bc05b" alt="medium" height="30" width="40" /></a>
 </p>
 
 
