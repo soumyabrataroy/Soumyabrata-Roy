@@ -12,16 +12,16 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumyabrataroy&label=Profile%20views&color=0e75b6&style=flat" alt="salonip" width="130"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumyabrataroy&label=Profile%20views&color=0e75b6&style=flat" alt="soumyabrataroy" width="130"/> </p>
 
 
-- 🔭 I’m currently working on [Chatbots.py](https://github.com/salonip/ChatBots)
-- 🌱 I’m currently learning **Generative adversarial networks (GANS)**
-- 👨‍💻 All of my public projects are available on [GitHub](https://github.com/salonip)
-- 📝 I regularly write articles on [dev.to](https://dev.to/salonip)
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP**
-- 📫 Reach me at: **salonipatil17@gmail.com**
-- 📄 Know about my experiences from my [Resume](http://bit.ly/Saloni-resume)
+- 🔭 I’m currently working on [Ecommerce Product Prediction](https://github.com/soumyabrataroy/predicting_ecommerce_product_discount)
+- 🌱 I’m currently learning **Github Actions**
+- 👨‍💻 All of my public projects are available on [GitHub](https://github.com/soumyabrataroy?tab=repositories)
+- 📝 I regularly write articles on [Medium](https://medium.com/@soumyabrataroy)
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, Generative Ai**
+- 📫 Reach me at: **soumyabrataroy@live.com**
+- 📄 Know about my experiences from my [Resume](https://docs.google.com/document/d/168UMg1DF2boGrylUB4tUvyLRfQPC9FHoSm2auL9l2SI/edit?usp=sharing)
 
 <br/>
 
