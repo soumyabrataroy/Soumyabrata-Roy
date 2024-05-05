@@ -12,7 +12,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=salonip&label=Profile%20views&color=0e75b6&style=flat" alt="salonip" width="130"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumyabrataroy&label=Profile%20views&color=0e75b6&style=flat" alt="salonip" width="130"/> </p>
 
 
 - 🔭 I’m currently working on [Chatbots.py](https://github.com/salonip/ChatBots)
